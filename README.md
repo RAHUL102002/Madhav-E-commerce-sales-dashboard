@@ -8,7 +8,9 @@ An interactive **Power BI Sales Dashboard** designed to analyze sales performanc
 
 > *Replace the image below with your dashboard screenshot.*
 
-![Dashboard Preview](dashboard.png)
+# 📸 Dashboard Preview
+
+[![Dashboard Preview](madhav%20e%20commerce%20sales%20dashboard.png)](madhav%20e%20commerce%20sales%20dashboard.png)
 
 ---
 
